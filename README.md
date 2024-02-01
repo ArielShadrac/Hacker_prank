@@ -1,7 +1,7 @@
 
 # Script de Prank "Hacker_prank"
 
-Ce script de prank génère des nombres aléatoires dans un style "hacker" simulé. Il est destiné à des fins éducatives et amusantes, pour taquiner vos amis ou pour initier les non-initiés à l'informatique.
+Ce script de prank génère des nombres aléatoires dans le style d'un hackeur, utilisant des librairies telles que socket, uuid, et rich. Il a été conçu dans un but éducatif et amusant pour taquiner les camarades ou les personnes peu familières avec l'informatique.
 
 ## Fonctionnalités
 
@@ -11,6 +11,10 @@ Ce script de prank génère des nombres aléatoires dans un style "hacker" simul
 ## Prérequis
 
 - Python 3.10 installé sur votre système.
+- Librairies Python :
+  - socket
+  - uuid
+  - rich
 
 ## Utilisation
 
