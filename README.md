@@ -21,7 +21,7 @@ Ce script de prank génère des nombres aléatoires dans le style d'un hackeur, 
 1. Cloner le repository :
 
 ```bash
-git clone https://github.com/votre_utilisateur/Hacker_prank.git
+git clone https://github.com/arielshadrac/Hacker_prank.git
 ```
 
 2. Naviguer dans le répertoire du projet :
